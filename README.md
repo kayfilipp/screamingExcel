@@ -8,5 +8,5 @@
 </ul>
 
 <h4>Instructions</h4>
-<p>Open your spreadsheet and click "Enable Editiing" and "Enable Content". You can view the code by pressing <b>Alt+F11</b> and navigating to 
+<p>Open your spreadsheet and click "Enable Editing" and "Enable Content". You can view the code by pressing <b>Alt+F11</b> and navigating to 
 the Sheet1 Module. </p>
